@@ -1,23 +1,16 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        char[] arr = text.toCharArray();
-        int ans =0;
+        int b = 0, a = 0, l = 0, o = 0, n = 0;
 
-        while(true){
-            String word = "balloon";
-            for(char c: word.toCharArray()){
-                boolean fnd = false;
-
-                for(int i=0;i<arr.length;i++){
-                    if(arr[i]==c){
-                        arr[i]='*';
-                        fnd = true;
-                        break;
-                    }
-                }
-                if(!fnd) return ans;
-            }
-            ans++;
+        for (char c : text.toCharArray()) {
+            if (c == 'b') b++;
+            else if (c == 'a') a++;
+            else if (c == 'l') l++;
+            else if (c == 'o') o++;
+            else if (c == 'n') n++;
         }
+
+        return Math.min(Math.min(b, a),
+               Math.min(Math.min(l / 2, o / 2), n));
     }
 }
