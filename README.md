@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Nishant19Yadav/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Nishant19Yadav/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
