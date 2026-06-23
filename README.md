@@ -30,4 +30,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Nishant19Yadav/Leetcode/tree/master/0724-find-pivot-index) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
