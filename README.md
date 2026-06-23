@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Nishant19Yadav/Leetcode/tree/master/0595-big-countries) |
+| [1211-queries-quality-and-percentage](https://github.com/Nishant19Yadav/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 ## Prefix Sum
 |  |
 | ------- |
