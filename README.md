@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Nishant19Yadav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/Nishant19Yadav/Leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Nishant19Yadav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/Nishant19Yadav/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -47,4 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nishant19Yadav/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Nishant19Yadav/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Nishant19Yadav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nishant19Yadav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nishant19Yadav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
