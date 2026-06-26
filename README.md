@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nishant19Yadav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/Nishant19Yadav/Leetcode/tree/master/0724-find-pivot-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nishant19Yadav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/Nishant19Yadav/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Nishant19Yadav/Leetcode/tree/master/0724-find-pivot-index) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,14 +73,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
 |  |
 | ------- |
