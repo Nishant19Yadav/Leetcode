@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/Nishant19Yadav/Leetcode/tree/master/0595-big-countries) |
 | [1211-queries-quality-and-percentage](https://github.com/Nishant19Yadav/Leetcode/tree/master/1211-queries-quality-and-percentage) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Nishant19Yadav/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Prefix Sum
 |  |
 | ------- |
