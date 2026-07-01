@@ -24,16 +24,6 @@ class Solution {
             }
         }
 
-        StringBuilder sb1 = new StringBuilder();
-
-        while (!st1.isEmpty())
-            sb1.append(st1.pop());
-
-        StringBuilder sb2 = new StringBuilder();
-
-        while (!st2.isEmpty())
-            sb2.append(st2.pop());
-
-        return sb1.reverse().toString().equals(sb2.reverse().toString());
+        return st1.equals(st2);
     }
 }
