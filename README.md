@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Nishant19Yadav/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Nishant19Yadav/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/Nishant19Yadav/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nishant19Yadav/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nishant19Yadav/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nishant19Yadav/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nishant19Yadav/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Nishant19Yadav/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Nishant19Yadav/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nishant19Yadav/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nishant19Yadav/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nishant19Yadav/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nishant19Yadav/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Nishant19Yadav/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
