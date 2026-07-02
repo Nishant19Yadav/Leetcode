@@ -1,37 +1,21 @@
 class Solution {
 
-    ArrayList<Integer> list = new ArrayList<>();
+    HashSet<Integer> set = new HashSet<>();
 
     public boolean findTarget(TreeNode root, int k) {
-
-        solve(root);
-
-        int left = 0;
-        int right = list.size() - 1;
-
-        while (left < right) {
-
-            int sum = list.get(left) + list.get(right);
-
-            if (sum == k)
-                return true;
-
-            if (sum < k)
-                left++;
-            else
-                right--;
-        }
-
-        return false;
+        return dfs(root, k);
     }
 
-    private void solve(TreeNode root) {
+    private boolean dfs(TreeNode root, int k) {
 
         if (root == null)
-            return;
+            return false;
 
-        solve(root.left);
-        list.add(root.val);
-        solve(root.right);
+        if (set.contains(k - root.val))
+            return true;
+
+        set.add(root.val);
+
+        return dfs(root.left, k) || dfs(root.right, k);
     }
 }
