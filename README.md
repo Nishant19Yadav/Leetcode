@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Nishant19Yadav/Leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishant19Yadav/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0324-wiggle-sort-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Nishant19Yadav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Nishant19Yadav/Leetcode/tree/master/0724-find-pivot-index) |
@@ -99,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Nishant19Yadav/Leetcode/tree/master/0049-group-anagrams) |
+| [0324-wiggle-sort-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Nishant19Yadav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1288-remove-covered-intervals](https://github.com/Nishant19Yadav/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nishant19Yadav/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nishant19Yadav/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Depth-First Search
 |  |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Nishant19Yadav/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Quickselect
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/0324-wiggle-sort-ii) |
 <!---LeetCode Topics End-->
