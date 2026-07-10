@@ -5,19 +5,19 @@ class Solution {
 
         boolean[][] vis = new boolean[n][m];
         for(int i=0;i<n;i++){
-            if(grid[i][0]==1 && vis[i][0]==false){
+            if(grid[i][0]==1 && vis[i][0]==false){ //left col
                 dfs(i,0,grid,vis);
             }
-            if(grid[i][m-1]==1 && vis[i][m-1]==false){
+            if(grid[i][m-1]==1 && vis[i][m-1]==false){ //right col
                 dfs(i,m-1,grid,vis);
             }
         }
         for(int i=0;i<m;i++){
-            if(grid[0][i]==1 &&vis[0][i]==false){
+            if(grid[0][i]==1 &&vis[0][i]==false){ //top row
                 dfs(0,i,grid,vis);
             }
-            if(grid[n-1][i]==1 && vis[n-1][i]==false){
-                dfs(n-1,i,grid,vis);
+            if(grid[n-1][i]==1 && vis[n-1][i]==false){ //bottom row
+                dfs(n-1,i,grid,vis); 
             }
         }
         int cnt=0;
