@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nishant19Yadav/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nishant19Yadav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0542-01-matrix](https://github.com/Nishant19Yadav/Leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Nishant19Yadav/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Nishant19Yadav/Leetcode/tree/master/0724-find-pivot-index) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Nishant19Yadav/Leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Nishant19Yadav/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishant19Yadav/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Nishant19Yadav/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nishant19Yadav/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nishant19Yadav/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Nishant19Yadav/Leetcode/tree/master/0733-flood-fill) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Nishant19Yadav/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nishant19Yadav/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Nishant19Yadav/Leetcode/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishant19Yadav/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
