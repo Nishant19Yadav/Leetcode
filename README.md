@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Nishant19Yadav/Leetcode/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/Nishant19Yadav/Leetcode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Nishant19Yadav/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Nishant19Yadav/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nishant19Yadav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nishant19Yadav/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Nishant19Yadav/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Nishant19Yadav/Leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Nishant19Yadav/Leetcode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/Nishant19Yadav/Leetcode/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Nishant19Yadav/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Nishant19Yadav/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Nishant19Yadav/Leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Nishant19Yadav/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Nishant19Yadav/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nishant19Yadav/Leetcode/tree/master/0547-number-of-provinces) |
