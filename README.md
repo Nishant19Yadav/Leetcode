@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nishant19Yadav/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Nishant19Yadav/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Nishant19Yadav/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Nishant19Yadav/Leetcode/tree/master/0344-reverse-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nishant19Yadav/Leetcode/tree/master/0022-generate-parentheses) |
 | [0542-01-matrix](https://github.com/Nishant19Yadav/Leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Nishant19Yadav/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishant19Yadav/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Nishant19Yadav/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Nishant19Yadav/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
