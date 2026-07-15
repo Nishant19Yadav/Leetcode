@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nishant19Yadav/Leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Nishant19Yadav/Leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Nishant19Yadav/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1137-n-th-tribonacci-number](https://github.com/Nishant19Yadav/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishant19Yadav/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nishant19Yadav/Leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Nishant19Yadav/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Nishant19Yadav/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nishant19Yadav/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -309,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nishant19Yadav/Leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Nishant19Yadav/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
