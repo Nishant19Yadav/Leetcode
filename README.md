@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Nishant19Yadav/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Nishant19Yadav/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Nishant19Yadav/Leetcode/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/Nishant19Yadav/Leetcode/tree/master/0740-delete-and-earn) |
 | [0994-rotting-oranges](https://github.com/Nishant19Yadav/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nishant19Yadav/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Nishant19Yadav/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nishant19Yadav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nishant19Yadav/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Nishant19Yadav/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0740-delete-and-earn](https://github.com/Nishant19Yadav/Leetcode/tree/master/0740-delete-and-earn) |
 | [1189-maximum-number-of-balloons](https://github.com/Nishant19Yadav/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nishant19Yadav/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nishant19Yadav/Leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Nishant19Yadav/Leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Nishant19Yadav/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0740-delete-and-earn](https://github.com/Nishant19Yadav/Leetcode/tree/master/0740-delete-and-earn) |
 | [1137-n-th-tribonacci-number](https://github.com/Nishant19Yadav/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishant19Yadav/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
