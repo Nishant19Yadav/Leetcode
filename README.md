@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Nishant19Yadav/Leetcode/tree/master/0740-delete-and-earn) |
 | [1137-n-th-tribonacci-number](https://github.com/Nishant19Yadav/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishant19Yadav/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/Nishant19Yadav/Leetcode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
 |  |
