@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Nishant19Yadav/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nishant19Yadav/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Nishant19Yadav/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/Nishant19Yadav/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Nishant19Yadav/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishant19Yadav/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1366-rank-teams-by-votes](https://github.com/Nishant19Yadav/Leetcode/tree/master/1366-rank-teams-by-votes) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Nishant19Yadav/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/Nishant19Yadav/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nishant19Yadav/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nishant19Yadav/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Nishant19Yadav/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Nishant19Yadav/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/Nishant19Yadav/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nishant19Yadav/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nishant19Yadav/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
