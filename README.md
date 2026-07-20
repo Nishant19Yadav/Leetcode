@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nishant19Yadav/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Nishant19Yadav/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Nishant19Yadav/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nishant19Yadav/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Nishant19Yadav/Leetcode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Nishant19Yadav/Leetcode/tree/master/0198-house-robber) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Nishant19Yadav/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nishant19Yadav/Leetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Nishant19Yadav/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Nishant19Yadav/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Nishant19Yadav/Leetcode/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishant19Yadav/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Queue
 |  |
