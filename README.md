@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nishant19Yadav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Nishant19Yadav/Leetcode/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Nishant19Yadav/Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Nishant19Yadav/Leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishant19Yadav/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nishant19Yadav/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Nishant19Yadav/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Nishant19Yadav/Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Nishant19Yadav/Leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Nishant19Yadav/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/Nishant19Yadav/Leetcode/tree/master/0740-delete-and-earn) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Nishant19Yadav/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nishant19Yadav/Leetcode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Nishant19Yadav/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishant19Yadav/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Nishant19Yadav/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Nishant19Yadav/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -418,4 +421,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Nishant19Yadav/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Nishant19Yadav/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
