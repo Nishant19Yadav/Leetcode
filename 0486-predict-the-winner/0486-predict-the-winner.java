@@ -3,20 +3,14 @@ class Solution {
         int n = A.length;
         if ((n & 1) == 0) return true;
 
-        int[][] dp = new int[n][n];
-        for (int[] r : dp) 
-            Arrays.fill(r, -1);
-        
-        return maxDiff(0, n - 1, A, dp) >= 0;
-    }
+        int[] dp = new int[n];
 
-    private int maxDiff(int i, int j, int[] A, int[][] dp) {
-        if (dp[i][j] != -1) return dp[i][j];        
-        if (i == j) return dp[i][j] = A[i];
-        
-        return dp[i][j] = Math.max(
-            A[i] - maxDiff(i + 1, j, A, dp),
-            A[j] - maxDiff(i, j - 1, A, dp)
-        );
+        for (int i = n - 1; i >= 0; i--) {
+            dp[i] = A[i];
+            for (int j = i + 1; j < n; j++)
+                dp[j] = Math.max(A[i] - dp[j], A[j] - dp[j - 1]);
+        }
+
+        return dp[n - 1] >= 0;
     }
 }
