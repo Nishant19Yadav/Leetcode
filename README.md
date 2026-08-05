@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Nishant19Yadav/Leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Nishant19Yadav/Leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nishant19Yadav/Leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishant19Yadav/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nishant19Yadav/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Nishant19Yadav/Leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nishant19Yadav/Leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Nishant19Yadav/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/Nishant19Yadav/Leetcode/tree/master/0740-delete-and-earn) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nishant19Yadav/Leetcode/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/0494-target-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -444,4 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Nishant19Yadav/Leetcode/tree/master/1406-stone-game-iii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
