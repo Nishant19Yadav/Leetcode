@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nishant19Yadav/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/Nishant19Yadav/Leetcode/tree/master/1366-rank-teams-by-votes) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nishant19Yadav/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nishant19Yadav/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nishant19Yadav/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Nishant19Yadav/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nishant19Yadav/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nishant19Yadav/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nishant19Yadav/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nishant19Yadav/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nishant19Yadav/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
 |  |
 | ------- |
