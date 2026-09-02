@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Nishant19Yadav/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nishant19Yadav/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Nishant19Yadav/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Nishant19Yadav/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishant19Yadav/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Nishant19Yadav/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -468,12 +469,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Nishant19Yadav/Leetcode/tree/master/0231-power-of-two) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nishant19Yadav/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nishant19Yadav/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Nishant19Yadav/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Nishant19Yadav/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
