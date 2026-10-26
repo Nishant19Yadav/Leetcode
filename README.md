@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nishant19Yadav/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Nishant19Yadav/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nishant19Yadav/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Nishant19Yadav/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nishant19Yadav/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nishant19Yadav/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nishant19Yadav/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Nishant19Yadav/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
